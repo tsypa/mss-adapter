@@ -1,0 +1,22 @@
+{
+  "name": "mss-adapter",
+  "version": "1.0.0",
+  "description": "Adapters for moysklad synchronizers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsypa/node-mss-adapter.git"
+  },
+  "keywords": [
+    "MSS"
+  ],
+  "author": "Maxim Tsyplakov <maxim.tsyplakov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsypa/node-mss-adapter/issues"
+  },
+  "homepage": "https://github.com/tsypa/node-mss-adapter#readme"
+}
