@@ -32,7 +32,7 @@ bower_components
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 
-# Dependency directories
+# Dependency directory
 node_modules/
 jspm_packages/
 
@@ -62,5 +62,21 @@ typings/
 \#*
 .\#*
 
+# JSCS
+.jscs*
+
 # Dynamic Tern port file
 .tern-port
+
+#Tern configuration
+.tern-project
+
+# Travis
+.travis.yml
+
+# Examples
+examples
+
+# test files
+test*.js
+artifacts

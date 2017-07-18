@@ -1,0 +1,13 @@
+{
+  "plugins": {
+    "node" : {},
+    "node_resolve" : {},
+    "modules": {},
+    "commonjs": {},
+    "es_modules": true,
+    "requirejs": {
+      "baseURL": "./",
+      "paths": {}
+    }
+  }
+}
