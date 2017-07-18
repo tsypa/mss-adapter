@@ -1,6 +1,6 @@
 {
   "name": "mss-adapter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adapters for moysklad synchronizers",
   "main": "index.js",
   "scripts": {
